@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_variant">#2C2C2C</color>
+    <color name="path_bg">#181818</color>
+    <color name="divider">#2A2A2A</color>
+
+    <color name="text_primary">#EFEFEF</color>
+    <color name="text_secondary">#888888</color>
+
+    <color name="accent_blue">#4A9EFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="icon_folder">#FFB74D</color>
+    <color name="icon_image">#66BB6A</color>
+    <color name="icon_video">#EF5350</color>
+    <color name="icon_audio">#AB47BC</color>
+    <color name="icon_pdf">#EF5350</color>
+    <color name="icon_archive">#FFA726</color>
+    <color name="icon_apk">#42A5F5</color>
+    <color name="icon_text">#78909C</color>
+    <color name="icon_doc">#2196F3</color>
+    <color name="icon_other">#9E9E9E</color>
+</resources>
